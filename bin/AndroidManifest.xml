@@ -37,6 +37,10 @@
             </intent-filter>
         </activity>
         
+        <activity 
+            android:name="com.pqw.wearechatting.ui.activity.LoginActivity" >
+        </activity>
+
         <activity
             android:name="com.pqw.wearechatting.ui.activity.MainActivity">
         </activity>
